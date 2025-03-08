@@ -40,3 +40,6 @@ module.exports = {
     open: true, // Automatically open the browser
   },
 };
+
+//run npm install to load all necessary packages
+//run npm start for development mode
